@@ -1,3 +1,5 @@
+![ChatGPT Image 6 мая 2025 г , 15_24_42](https://github.com/user-attachments/assets/1171371b-c558-4d42-87a5-0d2c52a185fe)
+
 🇷🇺 [Русская версия](README.ru.md)
 
 # Hi, I'm Alex! 👋
