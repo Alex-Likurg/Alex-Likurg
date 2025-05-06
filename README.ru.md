@@ -36,7 +36,7 @@ OpenAI API · T5-модели · Деплой на VPS · Автоматизац
 
 ## 📫 Как связаться
 
-[Telegram](https://t.me/AlexLikurg) • [Email](likurg68@gmail.com)
+[Telegram](https://t.me/AlexLikurg) • [Email](mailto:likurg68@gmail.com)
 
 ---
 
