@@ -37,7 +37,7 @@ OpenAI API · T5-based models · VPS deployment · Docker Compose automation
 
 ## 📫 Get in Touch
 
-[Telegram](https://t.me/AlexLikurg) • [Email](likurg68@gmail.com)
+[Telegram](https://t.me/AlexLikurg) • [Email](mailto:likurg68@gmail.com)
 
 ---
 
