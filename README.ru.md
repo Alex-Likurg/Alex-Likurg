@@ -1,3 +1,5 @@
+![ChatGPT Image 6 мая 2025 г , 15_24_43](https://github.com/user-attachments/assets/078be532-832c-4383-892c-3c903d8c4012)
+
 🇬🇧 [English version](README.md)
 
 # Привет, я Алексей! 👋
@@ -44,3 +46,5 @@ OpenAI API · T5-модели · Деплой на VPS · Автоматизац
 
 
 ⭐ Спасибо, что заглянул!
+
+![ChatGPT Image 6 мая 2025 г , 15_24_43](https://github.com/user-attachments/assets/1f056daf-033b-4a66-a302-d76ac7ed5709)
