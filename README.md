@@ -1,4 +1,4 @@
-![ChatGPT Image 6 мая 2025 г , 15_24_42](https://github.com/user-attachments/assets/1171371b-c558-4d42-87a5-0d2c52a185fe)
+![ChatGPT Image 6 мая 2025 г , 15_24_43](https://github.com/user-attachments/assets/88d6ded4-9278-4ba1-8927-1b4fab3fc466)
 
 🇷🇺 [Русская версия](README.ru.md)
 
@@ -47,3 +47,4 @@ OpenAI API · T5-based models · VPS deployment · Docker Compose automation
 
 ⭐ Thanks for visiting!
 
+![ChatGPT Image 6 мая 2025 г , 15_24_43](https://github.com/user-attachments/assets/1a8e15ad-d6a5-473e-8005-154729e4fc17)
