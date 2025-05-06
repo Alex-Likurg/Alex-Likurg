@@ -1,16 +1,47 @@
-## Hi there 👋
+🇷🇺 [Русская версия](README.ru.md)
 
-<!--
-**Alex-Likurg/Alex-Likurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alex! 👋
 
-Here are some ideas to get you started:
+I'm an aspiring developer passionate about building Telegram bots and experimenting with TypeScript, Node.js, and Docker. I love learning by doing and sharing my projects as part of my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Featured Projects
+
+- 🛎 **[restaurant-chatbot](https://github.com/Alex-Likurg/restaurant-chatbot)**  
+  A Telegram bot for restaurant table reservations, weather forecast integration, Google Calendar sync, and Docker deployment.
+
+- 🧠 **[My_LLM_two](https://github.com/Alex-Likurg/My_LLM_two)**  
+  Language model experiments using text generation and prompt engineering.
+
+- 🎨 **[stable_diffusion](https://github.com/Alex-Likurg/stable_diffusion)**  
+  AI image generation with Stable Diffusion. My personal playground for neural graphics.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**  
+TypeScript · Node.js · JavaScript · Telegraf · Python
+
+**Tools & Databases**  
+Docker · Git · PostgreSQL · MySQL · GitHub Actions · VS Code
+
+---
+
+## 🌱 Currently Learning
+
+OpenAI API · T5-based models · VPS deployment · Docker Compose automation
+
+---
+
+## 📫 Get in Touch
+
+[Telegram](https://t.me/AlexLikurg) • [Email](mailto:alex.likurg.dev@gmail.com)
+
+---
+
+📄 🇷🇺 [Русская версия профиля](./README.ru.md)
+
+⭐ Thanks for visiting!
+
